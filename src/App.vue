@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
+    <dinoHeader/>
   </div>
 </template>
 
 <script>
+import dinoHeader from './components/dinoHeader.vue'
 
 export default {
   name: 'App',
   components: {
-    
+    dinoHeader
   }
 }
 </script>
