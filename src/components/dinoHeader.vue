@@ -9,8 +9,7 @@ export default {
   name: 'dinoHeader',
   data(){
     return {
-
-  }
+    }
   }
 }
 </script>
