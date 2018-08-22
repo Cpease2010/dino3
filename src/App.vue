@@ -3,6 +3,7 @@
       <dinoHeader/>
     <main>
       <jobDetails/>
+      <inputForm/>
     </main>
     <dinoFooter/>
   </div>
@@ -12,12 +13,14 @@
 import dinoHeader from './components/dinoHeader.vue'
 import dinoFooter from './components/dinoFooter.vue'
 import jobDetails from './components/jobDetails.vue'
+import inputForm from './components/inputForm.vue'
 export default {
   name: 'App',
   components: {
     dinoHeader,
     dinoFooter,
-    jobDetails
+    jobDetails,
+    inputForm,
   }
 }
 </script>
