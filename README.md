@@ -1,6 +1,12 @@
 # dino3
-
 > Refactored Dino3
+
+##Passed Test
+
+![Screenshot](passedTest.png)
+
+##Deployed Link
+http://dino3.surge.sh/
 
 ## Build Setup
 
